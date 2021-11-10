@@ -1,0 +1,43 @@
+#a {
+  color: blue;
+  font-size: 50px;
+
+}
+
+#b {
+  color:grey; 
+}
+
+#c {
+    font-size: 8px;
+    color: green;
+    font-style: italic;
+}
+
+#d {
+    color: orange;
+    font-weight: 700;
+    text-align: right;
+
+}
+
+#e {
+    color: pink;
+    font-family: Tahoma;
+
+}
+
+#f {
+    text-decoration-line: underline;
+    color:purple;
+    font-family: Roboto, helvetica, sans-sarif;
+
+}
+
+#g {
+    background: yellow;
+    font-weight: 700;
+    font-family: Comic Sans MS, comic sans, cursive;
+    line-height: 25px;
+
+}
